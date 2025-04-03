@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PFU Calculator</string>
+    <string name="save_button">Сохранить</string>
+    <string name="history_button">История</string>
+    <string name="app_icon_desc">Иконка приложения</string>  <!-- Для accessibility -->
+    <string name="app_title">Калькулятор\nБЖЕ</string>
+</resources>
